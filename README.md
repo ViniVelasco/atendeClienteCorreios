@@ -1,2 +1,2 @@
 # atendeClienteCorreios
-Um simples arquivo em php mostrando como consumir o Web Service do correios com o NuSoap
+Um simples arquivo em php mostrando como consumir o Web Service do Correios com o NuSoap
